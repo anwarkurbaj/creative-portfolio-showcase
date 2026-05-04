@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import Hero3D from "./Hero3D";
 import { ArrowDown, Github, Linkedin, Mail } from "lucide-react";
 
-const techs = ["Flutter", "WordPress", "React", "Python", "C++", "Dart", "AI Tools"];
+const techs = ["Flutter", "WordPress", "Python", "C++", "Dart", "AI Tools"];
 
 export default function Hero() {
   return (
@@ -36,7 +36,7 @@ export default function Hero() {
           className="text-5xl sm:text-7xl md:text-8xl lg:text-9xl font-bold tracking-tighter leading-[0.9] max-w-5xl"
         >
           Anwar <br />
-          <span className="text-gradient">Karbaj.</span>
+          <span className="text-gradient">Kurbaj.</span>
         </motion.h1>
 
         <motion.p
